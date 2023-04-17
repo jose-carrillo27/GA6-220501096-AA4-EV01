@@ -1,0 +1,9 @@
+
+
+/* Mobile */
+@media (min-width: 900px) {
+  .mobile {
+    background-color: "red";
+  }
+
+}
